@@ -1,36 +1,13 @@
 # markov
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+Simple command-line markov chain generator
 
 ## Usage
 
-FIXME: explanation
+After compiling into an uberjar, run:
 
-    $ java -jar markov-0.1.0-standalone.jar [args]
+    $ java -jar <uberjar file name>.jar [args]
 
-## Options
+where [args] is a list of words to be used for
+generating a Markov chain
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.

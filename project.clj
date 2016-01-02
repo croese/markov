@@ -1,6 +1,6 @@
 (defproject markov "0.1"
   :description "Simple command-line markov generator"
-  :url "http://example.com/FIXME"
+  :url "https://github.com/croese/markov"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.7.0"]]
